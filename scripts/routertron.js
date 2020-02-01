@@ -15,3 +15,8 @@ mech.weapons = [
 	Mechs.dart.weapon,
 	Mechs.delta.weapon
 ];
+
+const pad = extendContent(MechPad, "routertron-pad", {});
+pad.mech = mech;
+pad.localizedName = "routertron pad"
+pad.description = "create routertron\nples downlod vbucks mod DeltaNedas/vbucks"

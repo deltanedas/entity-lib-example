@@ -1,0 +1,16 @@
+{
+	"name": "routertron pad",
+	"description": "create routertron\nples downlod vbucks mod DeltaNedas/vbucks",
+	"size": 2,
+	"health": 200,
+	"buildTime": 120,
+	"consumes": {
+		"power": 0.1666
+	},
+	"requirements": [
+		"copper/20",
+		"lead/5"
+	],
+	"category": "upgrade",
+	"research": "router"
+}
