@@ -13,5 +13,5 @@ mech.rotationLerp = 0.05;
 mech.weapons = [
 	Mechs.omega.weapon,
 	Mechs.dart.weapon,
-	Mechs.duo.weapon
+	Mechs.delta.weapon
 ];

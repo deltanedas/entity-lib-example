@@ -1,3 +1,3 @@
-# Entity Lib Test
+# Entity Lib Example
 
-Test mod for Entity Lib.
+Example mod for Entity Lib.
