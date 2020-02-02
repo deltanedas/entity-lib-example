@@ -2,7 +2,8 @@ const entityLib = this.global.entityLib; // Like Java import
 
 const mech = entityLib.extendMech(Mech, "routertron", [{
 	loadAfter(){
-		this.bodyRegion = Core.atlas.find("router")
+		print("router")
+		this.bodyRegion = Core.atlas.find("router");
 	},
 	drawUnder(player, rot){
 		Draw.rect(this.bodyRegion, player.x, player.y, rot);
@@ -18,5 +19,3 @@ mech.weapons = [
 
 const pad = extendContent(MechPad, "routertron-pad", {});
 pad.mech = mech;
-pad.localizedName = "routertron pad"
-pad.description = "create routertron\nples downlod vbucks mod DeltaNedas/vbucks"
