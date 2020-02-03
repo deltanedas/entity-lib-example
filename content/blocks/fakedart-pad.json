@@ -1,0 +1,17 @@
+{
+	"name": "Dart Pad",
+	"description": "creates a [sky]legitimate[] Dart.\n[stat]enough questions, mindustrian, buy the product![]",
+	"size": 2,
+	"health": 200,
+	"buildTime": 300,
+	"consumes": {
+		"power": 0.0833333333
+	},
+	"requirements": [
+		"copper/40",
+		"lead/30",
+		"silicon/10"
+	],
+	"category": "upgrade",
+	"research": "dart-mech-pad"
+}

@@ -3,7 +3,7 @@
 	"displayName": "[sky]Entity Lib [red]Example[]",
 	"author": "DeltaNedas",
 	"description": "Example mod for [sky]Entity Lib[].\nAlso see [royal]DeltaNedas/vbucks[].",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"minGameVersion": "103",
 	"dependencies": ["entity-lib"]
 }
